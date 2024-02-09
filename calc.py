@@ -13,14 +13,14 @@ def About():
     print(
     """
     Привет!
-    ______________________________
+    _______________________________
     author: Anna Starmark
             class  8
             school 242
     e-mail: nn.starmark@gmail.com
-    github: github.com/nn.starmark
+    github: github.com/AnnaStarmark
     date:   09-02-2024    15:18:00
-    ______________________________
+    _______________________________
     """
     )
 
